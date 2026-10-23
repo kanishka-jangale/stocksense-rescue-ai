@@ -1,0 +1,26 @@
+supplier_id,business_name,supplier_scale,service_area,product_id,unit_purchase_price,min_order_qty,available_qty,delivery_lead_time_days,delivery_charge,discount_pct,return_policy,reliability_score,last_price_update
+SUP-LOC-01,Metro Local Fresh Wholesale,Local/Small,Within 15km City Zone,P-101,42.0,10,200,1,50.0,0.0,Full Credit on souring,0.96,2026-10-12
+SUP-REG-01,Apex Regional Distribution Hub,Regional Distributor,Statewide / Tri-County,P-101,39.5,50,1000,3,120.0,2.0,Credit memo within 24h,0.91,2026-10-21
+SUP-REG-01,Apex Regional Distribution Hub,Regional Distributor,Statewide / Tri-County,P-102,85.0,20,300,2,80.0,3.0,Expiry return 50% buyback,0.94,2026-10-22
+SUP-LOC-01,Metro Local Fresh Wholesale,Local/Small,Within 15km City Zone,P-102,90.0,5,50,1,30.0,0.0,Same-day replacement,0.97,2026-10-11
+SUP-REG-01,Apex Regional Distribution Hub,Regional Distributor,Statewide / Tri-County,P-201,420.0,10,250,3,150.0,3.0,30-day exchange,0.92,2026-10-18
+SUP-NAT-01,Bharat Mega Wholesale Corp,Large Wholesaler,National Freight Network,P-201,385.0,40,1500,6,300.0,5.0,Damaged sacks replaced only,0.88,2026-10-19
+SUP-LOC-02,Sunrise Local Traders,Local/Small,Metro Area Express,P-201,435.0,5,80,1,50.0,0.0,100% money back,0.98,2026-10-19
+SUP-NAT-01,Bharat Mega Wholesale Corp,Large Wholesaler,National Freight Network,P-202,210.0,30,2000,5,250.0,4.0,Damaged sacks only,0.89,2026-10-20
+SUP-REG-01,Apex Regional Distribution Hub,Regional Distributor,Statewide / Tri-County,P-202,222.0,15,500,3,120.0,1.5,Standard exchange,0.93,2026-10-11
+SUP-LOC-02,Sunrise Local Traders,Local/Small,Metro Area Express,P-204,110.0,12,150,1,40.0,1.0,Immediate swap for leaks,0.95,2026-10-21
+SUP-NAT-01,Bharat Mega Wholesale Corp,Large Wholesaler,National Freight Network,P-204,98.0,60,1200,7,200.0,4.5,Credit invoice on proof,0.86,2026-10-12
+SUP-NAT-02,Global Direct FMCG Mills,Large Wholesaler,Direct Factory Rail,P-301,145.0,24,800,5,180.0,3.5,Carton replacement,0.9,2026-10-11
+SUP-REG-01,Apex Regional Distribution Hub,Regional Distributor,Statewide / Tri-County,P-301,152.0,10,180,2,70.0,1.0,Full refund if damaged,0.95,2026-10-14
+SUP-LOC-01,Metro Local Fresh Wholesale,Local/Small,Within 15km City Zone,P-304,35.0,24,400,1,30.0,2.0,Dented cans accepted,0.96,2026-10-21
+SUP-NAT-02,Global Direct FMCG Mills,Large Wholesaler,Direct Factory Rail,P-304,31.0,120,3000,6,250.0,6.0,Case level only,0.88,2026-10-13
+SUP-REG-02,Vanguard Regional Logistics,Regional Distributor,Northern Regional Grid,P-401,68.0,15,350,3,80.0,2.5,Standard exchange,0.94,2026-10-16
+SUP-LOC-02,Sunrise Local Traders,Local/Small,Metro Area Express,P-401,74.0,5,60,1,30.0,0.0,Full replacement,0.98,2026-10-22
+SUP-NAT-02,Global Direct FMCG Mills,Large Wholesaler,Direct Factory Rail,P-402,15.0,50,2500,4,100.0,3.0,Crushed bags credited,0.92,2026-10-22
+SUP-LOC-01,Metro Local Fresh Wholesale,Local/Small,Within 15km City Zone,P-402,16.2,20,200,1,25.0,0.0,Immediate credit,0.97,2026-10-21
+SUP-REG-01,Apex Regional Distribution Hub,Regional Distributor,Statewide / Tri-County,P-404,75.0,12,180,2,60.0,2.0,Standard replacement,0.93,2026-10-19
+SUP-LOC-02,Sunrise Local Traders,Local/Small,Metro Area Express,P-404,82.0,6,50,1,25.0,0.0,Immediate replacement,0.96,2026-10-19
+SUP-NAT-01,Bharat Mega Wholesale Corp,Large Wholesaler,National Freight Network,P-501,28.0,48,1500,5,120.0,4.0,Full case exchange,0.91,2026-10-14
+SUP-LOC-01,Metro Local Fresh Wholesale,Local/Small,Within 15km City Zone,P-501,31.5,12,100,1,20.0,0.0,Immediate credit,0.96,2026-10-13
+SUP-REG-02,Vanguard Regional Logistics,Regional Distributor,Northern Regional Grid,P-502,380.0,4,80,3,75.0,2.0,Breakage covered,0.95,2026-10-22
+SUP-LOC-02,Sunrise Local Traders,Local/Small,Metro Area Express,P-502,410.0,2,25,1,30.0,0.0,100% refund,0.99,2026-10-14

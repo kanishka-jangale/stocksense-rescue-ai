@@ -1,0 +1,24 @@
+product_id,product_name,category,current_stock,avg_daily_sales,cost_price,selling_price,expiry_date,safety_stock,primary_supplier_id,unit
+P-101,Fresh Cow Milk 1L,Dairy,12,25.0,42.0,50.0,2026-10-26,15,SUP-LOC-01,pack
+P-102,Greek Yogurt 400g,Dairy,45,4.0,85.0,115.0,2026-10-29,8,SUP-REG-01,cup
+P-103,Artisanal Cheddar 200g,Dairy,8,1.5,210.0,290.0,2026-12-07,5,SUP-NAT-01,block
+P-104,Paneer Fresh 500g,Dairy,6,10.0,140.0,175.0,2026-10-28,10,SUP-LOC-01,pack
+P-201,Premium Basmati Rice 5kg,Staples,18,3.0,420.0,520.0,2027-10-18,10,SUP-REG-01,bag
+P-202,Economy Sona Masoori Rice 5kg,Staples,35,6.0,210.0,255.0,2027-08-19,15,SUP-NAT-01,bag
+P-203,Organic Quinoa 1kg,Staples,5,1.2,280.0,395.0,2027-04-21,4,SUP-REG-01,pouch
+P-204,Refined Sunflower Oil 1L,Staples,8,8.0,110.0,135.0,2027-05-21,12,SUP-LOC-02,pouch
+P-205,Cold Pressed Mustard Oil 1L,Staples,22,2.5,165.0,225.0,2027-06-20,6,SUP-REG-02,bottle
+P-206,Iodized Salt 1kg,Staples,50,5.0,18.0,25.0,,20,SUP-NAT-01,pack
+P-301,Everyday Black Tea 500g,Beverages,14,4.0,145.0,190.0,2027-07-20,10,SUP-NAT-02,box
+P-302,Single Origin Coffee Beans 250g,Beverages,4,1.8,310.0,450.0,2027-01-21,5,SUP-LOC-02,pouch
+P-303,Herbal Green Tea 25 Bags,Beverages,28,2.0,120.0,165.0,2027-03-22,8,SUP-REG-01,box
+P-304,Instant Energy Drink 500ml,Beverages,3,6.5,35.0,50.0,2027-02-20,10,SUP-LOC-01,can
+P-401,Roasted Makhana Herbs 100g,Snacks,7,5.2,68.0,110.0,2027-01-06,8,SUP-REG-02,pouch
+P-402,Classic Salted Chips 50g,Snacks,65,12.0,15.0,20.0,2026-12-22,25,SUP-NAT-02,pack
+P-403,Artisanal Dark Chocolate 80g,Snacks,9,1.0,125.0,195.0,2027-02-10,4,SUP-LOC-02,bar
+P-404,Millet Cookies 200g,Snacks,6,3.8,75.0,120.0,2027-01-11,8,SUP-REG-01,box
+P-501,Ayurvedic Neem Soap 125g,Personal Care,40,4.5,28.0,40.0,2028-01-16,15,SUP-NAT-01,bar
+P-502,Luxury Argan Hair Serum 50ml,Personal Care,2,0.8,380.0,599.0,2027-10-23,3,SUP-REG-02,bottle
+P-503,Herbal Toothpaste 150g,Personal Care,18,3.2,62.0,85.0,2027-11-27,10,SUP-NAT-02,tube
+P-504,Eco Bamboo Toothbrush 4pk,Personal Care,11,1.4,95.0,160.0,,5,SUP-LOC-02,pack
+P-601,Specialty Truffle Glaze 150ml,Staples,14,0.0,450.0,650.0,2026-12-02,2,SUP-LOC-02,bottle
